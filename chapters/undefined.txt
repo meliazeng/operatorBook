@@ -1,19 +1,21 @@
-Chapter 3:  Reunion with Humanity
+第5章：宁静号的幽灵
 
-The deceleration jolt threw me against the restraints, a familiar sensation despite the decades spent in cryosleep.  My body, creaking like an old starship itself, protested the sudden return to wakefulness.  The internal lights flickered on, revealing the cramped confines of the cryo-pod. 2042. The display blinked, confirming the year.  Fifty-three years had vanished in a blink. Fifty-three years since I'd last felt the sun on my face, felt the solidity of Earth beneath my feet.  My last assignment felt like a hazy dream.
+2042年，水星轨道。我的休眠舱剧烈震动，仿佛一头被惊醒的巨兽在挣扎。刺耳的警报声划破了沉寂的太空，我猛地睁开眼，眼前的一切模糊不清。过载指示灯闪烁着刺目的红光，我的身体像散了架一样酸痛。深空休眠，整整三年。
 
-The automated voice, tinny and impersonal, announced, "Approaching Serenity. Docking procedure initiated."  Serenity.  The name conjured images of tranquil waters, a stark contrast to the harsh reality of my situation:  a hastily assembled rescue mission to a Mercury-bound vessel clinging to a legacy system – the Operator Framework – that should have been obsolete a generation ago.
+三年，足以让一个系统被时代抛弃，更别提一个年过半百的工程师。我，李维，一个维护Operator Framework的“古董级”专家，居然被从月球基地紧急召回。原因？宁静号，那艘前往水星的探测飞船，出了故障。
 
-The docking sequence was anything but tranquil.  A frantic flurry of automated warnings punctuated the approach.  My heart hammered against my ribs, a counterpoint to the rhythmic thrumming of the ship's engines.  For a moment, I braced for the inevitable – a catastrophic failure.  But then, with a soft *thunk*, the pod settled into place.  The hatch hissed open.
+Operator Framework，一个在人工智能时代本该被博物馆收藏的过时系统，却因为某些“特殊原因”被应用在宁静号上。讽刺的是，正是这个老掉牙的系统，导致了这次危机。
 
-A young woman stood silhouetted in the dimly lit docking bay, her figure outlined against the control panel’s ethereal glow.  Her face, when she turned, was breathtaking – flawless skin, intelligent eyes that held a depth that belied her age, probably no older than twenty-five.  She was a vision of youthful vitality, a stark contrast to my own weathered visage.  A chasm of fifty years yawned between us.
+穿梭舱减速，剧烈的震动渐渐平息。透过舷窗，我看到了宁静号——一艘孤独的飞船，在冰冷的太空中漂浮着，像一颗黯淡的星辰。
 
-She offered a hand, her grip surprisingly firm.  "Welcome aboard, Mr. Jian," she said, her voice clear and confident.  "I'm Lieutenant Lena Petrova, the Navigator."
+对接程序启动，我的心脏悬在了嗓子眼儿。拦截程序，那可是老系统里最不可靠的部分，稍有不慎，我就会变成宇宙尘埃。幸运的是，我成功了。
 
-"Lieutenant Petrova," I replied, my voice rusty from disuse,  "It's… good to finally meet you.  I understand there's been a… problem with the Operator Framework?"
+舱门缓缓打开，一个年轻女孩出现在我的眼前。她有着一头乌黑亮丽的长发，精致的五官，清澈的眼睛里闪烁着智慧的光芒。莱纳，宁静号的领航员，我的任务目标。她看起来完美无瑕，仿佛是从科幻电影里走出来的未来女神。这与我这个蓬头垢面，胡子拉碴，年过五十的老工程师形成了鲜明的对比。
 
-Lena nodded, her gaze sweeping over me, an unspoken question hanging in the air.  "A significant one," she admitted, her expression grim.  "The AI,  'Helios,' is exhibiting unpredictable behaviour.  We're losing control of several critical systems. You're our only hope."
+“欢迎 aboard，李工程师，”莱纳的声音轻柔而富有磁性，“感谢您不远万里赶来。”她伸出手，我握住她柔软的手，感受到了一种与这冰冷太空截然不同的温暖。
 
-She led me through the narrow corridors of the Serenity.  The ship was spartan, functional, every inch bearing the mark of its long journey.  The air hummed with a nervous energy, the low thrum of the failing systems a constant, unsettling reminder of our precarious position.  As we walked, Lena filled me in on the mission’s details: a solo scientific expedition to Mercury, the Operator Framework's unexpected failure – an anomaly they hadn't anticipated in the AI age – and the frantic call for a specialist like me, a relic from a bygone era.  My antiquated skills, my intimate knowledge of a dead system, were now my only currency.
+“宁静号的情况怎么样？”我尽量让自己显得镇定，却感觉自己的声音有些颤抖。
 
-My mission was clear.  But as I looked at Lena, at the weight of responsibility resting on her young shoulders, I felt a sudden surge of protectiveness. This wasn't just a system malfunction; it was a life-or-death situation, a test of not just my skills but also my resilience, tested by fifty years of slumber and now facing the reality of the future I had missed. The Operator Framework was old, but perhaps its most vital component was still the human element – the ingenuity and determination needed to bridge the gap between the past and the present.  My work had just begun.
+莱纳的脸上闪过一丝忧虑：“情况很复杂，Operator Framework的核心模块出现未知故障，人工智能也……”她顿了顿，眼神中带着一丝恐惧，“它失控了。”
+
+我深吸一口气，这个任务比我预料的要棘手得多。宁静号，一个充满未知危险的金属盒子，一个在太空漂流的幽灵。而我，一个过时的工程师，将是拯救它的唯一希望。  我的冒险，才刚刚开始。
