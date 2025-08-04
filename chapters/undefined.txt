@@ -1,10 +1,10 @@
-Please provide the plot points for the chapter. I need the plot details to write the chapter.  For example, tell me:
+Please provide the plot points for the chapter.  I need a plot outline or summary to write the chapter.  For example, you could give me information like:
 
-* **What is the setting?** (Time period, location, environment)
-* **Who are the main characters involved?** (And a brief description of their personalities and current goals)
-* **What is the central conflict or event of this chapter?**  (What problem needs solving? What decision needs to be made?)
-* **What is the climax of the chapter?** (The peak of the tension or action)
-* **What is the resolution or outcome of the chapter?** (How does the chapter end? What changes?)
-* **Are there any specific scenes or moments you want included?** (Dialogue, action sequences, internal monologues)
+* **Characters involved:** Who are the main characters in this chapter?
+* **Setting:** Where and when does the chapter take place?
+* **Conflict:** What is the central problem or challenge faced in this chapter?
+* **Plot points:** What key events happen?  What choices do the characters make? What are the consequences?
+* **Ending:** How does the chapter conclude?  What is the cliffhanger or resolution?
+
 
 Once I have this information, I can write a compelling chapter for your novel.
